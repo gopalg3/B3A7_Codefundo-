@@ -21,4 +21,4 @@ The datasets that we plan to train our model on would most likely include the fo
 - Standardized precipitation index
 - Local Temperature
 
-We plan to use different machine learning algorithms like simple regression(with/without regularization), support vector regression, ensemble methods like random forest regression with gradient boosting techniques, neural networks such as RNN and MOBILENETs to train our data and then select the most accurate model considering the model accuracy and the runtime tradeoff.
+We plan to use different machine learning algorithms like simple regression(with/without regularization), support vector regression, ensemble methods like random forest regression with gradient boosting techniques, neural networks such as RNN and MOBILENETs (can also be implemented on a smartphone) to train our data and then select the most accurate model considering the model accuracy and the runtime tradeoff.
