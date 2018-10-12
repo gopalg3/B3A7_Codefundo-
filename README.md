@@ -1,6 +1,6 @@
-#Idea for codefundo++
+# Idea for codefundo++
 
-#Drought Early Warning System (DEWS)
+# Drought Early Warning System (DEWS)
 
 Over the centuries, droughts have caused tens of millions of deaths in India alone. A drought is a prolonged period of time during which there are shortages in the water supply. This water supply can be in the form of atmospheric water, groundwater or surface water. There are mainly 3 types of droughts: Agricultural, Hydrological, and Meteorological. Meteorological drought is related to the shortage of rainfall over a long period of time. Agricultural drought is related to the deficit in soil moisture, which eventually affects the crop yield. Hydrological drought is generally related to the surface run-off, stream flow or groundwater deficit.
 
